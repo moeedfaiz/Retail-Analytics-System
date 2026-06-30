@@ -18,6 +18,9 @@ The system is designed to analyze retail chiller images and calculate the produc
 
 ![Detection Result](assets/3.png)
 
+
+![Detection Result](assets/4.png)
+
 ---
 
 ## Project Overview
