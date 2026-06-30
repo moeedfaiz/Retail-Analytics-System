@@ -8,17 +8,15 @@ The system is designed to analyze retail chiller images and calculate the produc
 
 ## System Screenshots
 
-### Dashboard UI
+### System UI
 
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](assets/1.png)
 
-### Upload and Preview
 
-![Upload Preview](assets/upload-preview.png)
+![Upload Preview](assets/2.png)
 
-### Detection Result
 
-![Detection Result](assets/detection-result.png)
+![Detection Result](assets/3.png)
 
 ---
 
