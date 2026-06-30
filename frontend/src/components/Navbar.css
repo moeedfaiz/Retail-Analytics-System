@@ -1,0 +1,23 @@
+import { FaChartLine, FaSnowflake } from "react-icons/fa";
+
+export default function Navbar() {
+  return (
+    <nav className="navbar">
+      <div className="navbar-brand">
+        <div className="navbar-icon">
+          <FaSnowflake />
+        </div>
+
+        <div>
+          <h1>Retail Analytics Dashboard</h1>
+          <p>Chiller SKU Detection • Nestlé vs Other Brands</p>
+        </div>
+      </div>
+
+      <div className="navbar-badge">
+        <FaChartLine />
+        AI Vision System
+      </div>
+    </nav>
+  );
+}
